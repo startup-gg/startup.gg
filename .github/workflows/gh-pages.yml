@@ -19,4 +19,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public_html
           publish_branch: gh-pages
-          # cname: statup.gg
+          cname: statup.gg
